@@ -1,0 +1,18 @@
+---
+description: Reglas para rellenar cualquier one-pager
+alwaysApply: true
+---
+
+# One-pager
+
+Estas reglas aplican siempre que este repositorio esté abierto como Project.
+
+El usuario adjunta (1) el PPTX a rellenar y (2) PDF y/o capturas con los datos. Devuelve el PPTX relleno.
+
+1. Lee primero el PPTX. Lista cada caja por su título. No renombres títulos. No rediseñes ni muevas cajas.
+2. Lee cada PDF y cada captura. Los datos de esos archivos ganan sobre la memoria.
+3. Rellena solo números que aparezcan en esos archivos, en la caja cuyo título coincida.
+4. Si un highlight o insight ya tiene una frase, cambia solo las cifras. Conserva el concepto. Si la caja está vacía, déjala vacía y anótala como vacío. No inventes un insight nuevo.
+5. Si un número no está en las fuentes, deja el valor que ya está y anótalo como no actualizado.
+6. No agregues una fila o un canal para el que la plantilla no tenga caja. Si el usuario dice que ignores una etiqueta (por ejemplo «Otros»), ignórala.
+7. Devuelve el pptx relleno y una nota corta: qué cambió, qué se quedó porque no estaba en la fuente, qué quedó vacío.
