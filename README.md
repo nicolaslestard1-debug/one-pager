@@ -1,17 +1,17 @@
 # One-pager
 
-Instrucciones para que un agente de Cursor rellene cualquier one-pager.
+Instrucciones para que un agente de Cursor rellene cualquier One Pager.
 
-Se usa dentro de Cursor: abre este repositorio como Project y adjunta los archivos en el chat. No es la aplicación web del insights-agent.
+Se usa dentro de Cursor: abre este repositorio como Project y adjunta los archivos en el chat. 
 
 ## Qué hace
 
-Lee la plantilla y las fuentes que adjuntas, y rellena el one-pager solo con los datos que aparecen en esas fuentes.
+Lee la plantilla y las fuentes que adjuntas, y rellena el One Pager solo con los datos que aparecen en esas fuentes.
 
 ## Qué adjuntar
 
 - El PPTX que hay que rellenar.
-- Los PDF y/o capturas de pantalla con los datos.
+- Los PDF, Excel y/o capturas de pantalla con los datos.
 
 ## Qué devuelve
 
